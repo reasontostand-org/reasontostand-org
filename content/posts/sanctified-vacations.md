@@ -1,5 +1,5 @@
 ---
-title: Short-term mission trips%3A Sanctified vacations?
+title: Short-term mission trips - Sanctified vacations?
 date: 2009-07-30 13:32:36 +0000 UTC
 draft: false
 slug: sanctified-vacations

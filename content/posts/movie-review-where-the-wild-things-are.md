@@ -1,5 +1,5 @@
 ---
-title: Movie review%3A Where the Wild Things Are
+title: Movie review - Where the Wild Things Are
 date: 2009-10-19 00:00:54 +0000 UTC
 draft: false
 slug: movie-review-where-the-wild-things-are

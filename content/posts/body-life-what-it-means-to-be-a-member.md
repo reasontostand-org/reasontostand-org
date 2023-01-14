@@ -1,5 +1,5 @@
 ---
-title: Body life%3A What it means to be a member
+title: Body life - What it means to be a member
 date: 2009-10-26 07:00:50 +0000 UTC
 draft: false
 slug: body-life-what-it-means-to-be-a-member
