@@ -1,7 +1,7 @@
 ---
 title: "Placidia the Forgotten Roman Empress"
 date: 2023-01-14T15:48:20-05:00
-draft: true
+draft: false
 ---
 
 The Smithosianian Magazine profiled the empress Placidia in [a recent article](https://www.smithsonianmag.com/history/misunderstood-roman-empress-willed-way-to-top-180981294/) titled "The Misunderstood Roman Empress Who Willed Her Way to the Top". 
